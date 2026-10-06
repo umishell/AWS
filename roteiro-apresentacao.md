@@ -355,7 +355,7 @@ Modelos de compra:
 │ Spot          │ Nenhum — pode ser retomada │ Batch, CI, render            │
 └───────────────┴─────────────────────────────┴──────────────────────────────┘
 
-⚠ Compromisso não usado = prejuízo. A hora contratada é paga mesmo ociosa.
+⚠ Savings Plan ou reserva cobram mesmo sem uso — você paga o compromisso, e não o que efetivamente rodou.
 ```
 
 *"Não existe uma assinatura mensal da AWS. A conta do mês é a soma de tudo que foi usado, em cada serviço, em cada região. Parar um recurso encerra a cobrança daquele recurso. Não há multa de cancelamento."*
