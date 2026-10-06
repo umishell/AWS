@@ -1,0 +1,11 @@
+apresentaçao sobre aws slides
+tema: aws
+
+questoes: 
+
+1. o que é?
+2.quais sao os principais serviços e para que servem?
+3.quais os serviços de IA e para que servem?
+4.Como funciona a cobrança?
+5.Dê exemplos de aplicaçoes que podem estar hospedados/servidos.
+6.Quais dessas tecnologias dão suporte para microserviços? Cite as tecnologias , para que servem e como suportam microserviços.
